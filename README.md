@@ -19,7 +19,7 @@
   - DB : MySQL(8.0.12) <br>
   - JAVA8 <br>
   - 프레임 워크 : Eclipse Jee Oxygen <br>
-  - 서버 : Apache Tomcat(8.5) <br>
+  - 서버 : Apache Tomcat(8.5), AWS <br>
   - HTML, CSS,BootStrap, JavaScript, AJAX, Json <br>
 
 - <h3>사용 API</h3>
@@ -44,11 +44,11 @@
   - 자동완성 검색 및 프로필 사진 업로드 <br>
 ![기능4](http://112.149.7.38:8090/Final_Minimap/php/profile.gif)
   - 개인 피드 <br>
-<img src="http://112.149.7.38:8090/Final_Minimap/php/feed.jpg" width="500" height="500"><br>
+<img src="http://112.149.7.38:8090/Final_Minimap/php/feed.png" width="500" height="500"><br>
   - 개인 피드 맵 <br>
-<img src="http://112.149.7.38:8090/Final_Minimap/php/feedmap.jpg" width="500" height="500"><br>
+<img src="http://112.149.7.38:8090/Final_Minimap/php/feedmap.png" width="500" height="500"><br>
   - 개인 팔로워 <br>
-<img src="http://112.149.7.38:8090/Final_Minimap/php/feedfollwer.jpg" width="500" height="500"><br>
+<img src="http://112.149.7.38:8090/Final_Minimap/php/feedfollwer.png" width="500" height="500"><br>
 
 - 참고 사항 <br>
-
+  - a로 시작되는 java class, jsp 파일은 Android 통신용 입니다.(ajax.jsp 제외)
