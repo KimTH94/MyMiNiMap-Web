@@ -43,15 +43,12 @@
     * Apache library 이용한 멀티 파일 업로드 및, 음식점 정보 저장
   - 자동완성 검색 및 프로필 사진 업로드 <br>
 ![기능4](http://112.149.7.38:8090/Final_Minimap/php/profile.gif)
+  - 개인 피드 <br>
+<img src="http://112.149.7.38:8090/Final_Minimap/php/feed.jpg" width="500" height="500"><br>
+  - 개인 피드 맵 <br>
+<img src="http://112.149.7.38:8090/Final_Minimap/php/feedmap.jpg" width="500" height="500"><br>
+  - 개인 팔로워 <br>
+<img src="http://112.149.7.38:8090/Final_Minimap/php/feedfollwer.jpg" width="500" height="500"><br>
 
+- 참고 사항 <br>
 
-- 관련 PPT 다운로드 <br>
-[PTUTime PPT 다운로드](http://112.149.7.38:8090/Final_Minimap/Download/PTUtime.jsp) 
-
-- 결과 <br>
-  - 소프트웨어학과 공모전 대상 <br>
-<img src="http://112.149.7.38:8090/Final_Minimap/php/PTUtime1.jpg" width="500" height="500"><br>
-  - 협업활동 발표 최우수 <br>
-<img src="http://112.149.7.38:8090/Final_Minimap/php/PTUtime3.jpg" width="500" height="500"><br>
-  - 협업활동 활동 장려 <br>
-<img src="http://112.149.7.38:8090/Final_Minimap/php/PTUtime2.jpg" width="500" height="500"><br>
