@@ -23,7 +23,7 @@
   - HTML, CSS,BootStrap, JavaScript, AJAX, Json <br>
 
 - <h3>사용 API</h3>
-  - 구글 Map, Place API
+  - 구글 Map, Place API <br>
   - Apache file upload library
   
 - 데이터 베이스 설계도
