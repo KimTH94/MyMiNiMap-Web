@@ -12,7 +12,7 @@
      + 최현건(건국대학교, 컴퓨터공학) : Android 개발 <br>
      + 이훈찬(가천대학교, 경영학과) : 기획 및 마케팅 <br>
  - 나의 기여도
-     + 데이터베이스 : 80%
+     + 데이터베이스 설계 및 정규화: 80%
      + Web BE: 80%
   
 - <h3>개발환경</h3>
@@ -20,7 +20,7 @@
   - JAVA8 <br>
   - 프레임 워크 : Eclipse Jee Oxygen <br>
   - 서버 : Apache Tomcat(8.5) <br>
-  - HTML, CSS,BootStrap, JavaScript, AJAX <br>
+  - HTML, CSS,BootStrap, JavaScript, AJAX, Json <br>
 
 - <h3>사용 API</h3>
   - 구글 Map, Place API
@@ -29,8 +29,10 @@
 - 데이터 베이스 설계도
 ![데이터베이스](http://112.149.7.38:8090/Final_Minimap/php/minidb.png)
 - <h3>메인 기능 소개</h3>
-  - 메인 화면
+  - 메인 화면 
 ![기능1](http://112.149.7.38:8090/Final_Minimap/php/main.gif)
+
+    * 사용자들이 저장한 음식점(핀) 정보(음식 종류, 맛, 가격, 추천 메뉴 등)
   - 학사일정 <br>
 ![기능2](http://112.149.7.38:8090/Final_Minimap/php/p2.png)
   - 중고 및 학과별 게시판 <br>
