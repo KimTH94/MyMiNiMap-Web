@@ -29,14 +29,18 @@
 - 데이터 베이스 설계도
 ![데이터베이스](http://112.149.7.38:8090/Final_Minimap/php/minidb.png)
 - <h3>메인 기능 소개</h3>
-  - 메인 화면 
+  - 메인 화면 <br>
 ![기능1](http://112.149.7.38:8090/Final_Minimap/php/main.gif)
 
     * 사용자들이 저장한 음식점(핀) 정보(음식 종류, 맛, 가격, 추천 메뉴 등)
-  - 학사일정 <br>
-![기능2](http://112.149.7.38:8090/Final_Minimap/php/p2.png)
-  - 중고 및 학과별 게시판 <br>
-![기능3](http://112.149.7.38:8090/Final_Minimap/php/p3.png)
+  - 회원가입 <br>
+![기능2](http://112.149.7.38:8090/Final_Minimap/php/join.gif)
+
+    * AJAX 이용하여 닉네임, Email 중복 확인 및 이메일 발송
+  - 음식점 저장 <br>
+![기능3](http://112.149.7.38:8090/Final_Minimap/php/save.gif)
+
+    * Apache library 이용한 멀티 파일 업로드 및, 음식점 정보 저장
   - 실시간 익명 채팅 <br>
 ![기능4](http://112.149.7.38:8090/Final_Minimap/php/p4.png)
 
