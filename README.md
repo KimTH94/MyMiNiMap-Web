@@ -1,6 +1,6 @@
 ## MyMiNiMap Web Version
 - <h3>개요</h3>
-  - 맛집과 SNS 합친 내손안의 맛집 지도 서비스 제작 
+  - 맛집과 SNS 합친 '내손안의 맛집 지도' MyMiNiMap 서비스 제작 
   
 - <h3>제작과정</h3>
   - 프로젝트명: <b>MyMiNiMap</b> <br>
@@ -30,7 +30,7 @@
 ![데이터베이스](http://112.149.7.38:8090/Final_Minimap/php/minidb.png)
 - <h3>메인 기능 소개</h3>
   - 메인 화면
-![기능1](http://112.149.7.38:8090/Final_Minimap/php/p1.png)
+![기능1](http://112.149.7.38:8090/Final_Minimap/php/main.gif)
   - 학사일정 <br>
 ![기능2](http://112.149.7.38:8090/Final_Minimap/php/p2.png)
   - 중고 및 학과별 게시판 <br>
