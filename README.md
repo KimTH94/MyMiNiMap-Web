@@ -41,8 +41,8 @@
 ![기능3](http://112.149.7.38:8090/Final_Minimap/php/save.gif)
 
     * Apache library 이용한 멀티 파일 업로드 및, 음식점 정보 저장
-  - 실시간 익명 채팅 <br>
-![기능4](http://112.149.7.38:8090/Final_Minimap/php/p4.png)
+  - 자동완성 검색 및 프로필 사진 업로드 <br>
+![기능4](http://112.149.7.38:8090/Final_Minimap/php/profile.gif)
 
 
 - 관련 PPT 다운로드 <br>
