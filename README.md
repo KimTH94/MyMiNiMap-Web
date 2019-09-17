@@ -20,9 +20,9 @@
   - JAVA8 <br>
   - 프레임 워크 : Eclipse Jee Oxygen <br>
   - 서버 : Apache Tomcat(8.5), AWS <br>
-  - HTML, CSS,BootStrap, JavaScript, AJAX, Json <br>
+  - HTML, CSS,BootStrap, JavaScript, AJAX, Json, JQuery <br>
 
-- <h3>사용 API</h3>
+- <h3>사용 API 및 library</h3>
   - 구글 Map, Place API <br>
   - Apache file upload library
   
